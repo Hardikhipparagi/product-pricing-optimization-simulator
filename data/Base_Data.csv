@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Unit_Cost,Current_Price,Competitor_Price,Estimated_Demand,Market_Size,Elasticity,Customer_Willingness_Multiplier
+1,SkillSprint Pro,201,1199,1278,3138,45980,-0.89,0.94
+2,SkillSprint Variant 2,386,999,1191,4652,65668,-0.78,0.95
+3,SkillSprint Variant 3,381,999,1024,2791,30952,-0.96,1.23
+4,SkillSprint Variant 4,402,999,1004,3197,33634,-1.08,0.93
+5,SkillSprint Variant 5,385,1199,1146,4121,29913,-1.34,1.29
+6,SkillSprint Variant 6,361,999,1162,4357,66703,-1.55,1.09
+7,SkillSprint Variant 7,299,699,740,1686,64602,-0.83,1.29
+8,SkillSprint Variant 8,343,899,863,5518,42227,-1.19,0.98
+9,SkillSprint Variant 9,291,699,789,3326,39811,-0.93,1.07
+10,SkillSprint Variant 10,234,799,941,4111,62015,-1.39,1.23
+11,SkillSprint Variant 11,284,1199,1344,2876,73885,-0.91,0.96
+12,SkillSprint Variant 12,249,1199,1119,5004,20441,-0.78,1.17
+13,SkillSprint Variant 13,293,1099,1046,4881,53338,-1.06,0.96
+14,SkillSprint Variant 14,290,799,689,3142,60104,-1.19,1.13
+15,SkillSprint Variant 15,199,1199,1250,4137,53922,-1.07,1.02
